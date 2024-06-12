@@ -1,5 +1,5 @@
 name: car_rental
-description: Car rental app created by Jakub Sobański and Martin Gogołowicz (creator of UI)
+description: Car rental app 
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
