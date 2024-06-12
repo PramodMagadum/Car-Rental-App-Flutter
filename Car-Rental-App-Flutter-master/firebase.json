@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "carrental000",
+          "appId": "1:238837884180:android:fc66474c33899482a38e01",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "carrental000",
+          "configurations": {
+            "android": "1:238837884180:android:fc66474c33899482a38e01",
+            "ios": "1:238837884180:ios:fd2f89559827b26da38e01",
+            "web": "1:238837884180:web:8312a24d35b091dda38e01"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
